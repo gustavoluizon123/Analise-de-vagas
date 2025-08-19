@@ -25,7 +25,20 @@ Pensamento analítico: Habilidade para identificar padrões e antecipar ameaças
 Trabalho em equipe: Colaboração com diferentes departamentos para garantir a segurança.
 Proatividade: Antecipação de possíveis vulnerabilidades e ações corretivas.
 
+2. Análise Salarial
 <img width="676" height="121" alt="image" src="https://github.com/user-attachments/assets/a74e91cd-93cf-413d-b485-96dace38f2a3" />
+
+3. Análise de Tendências
+
+Adoção de tecnologias emergentes: Há uma crescente demanda por profissionais com conhecimento em segurança de APIs, proteção contra ransomware e segurança em ambientes de nuvem.
+Certificações valorizadas: Certificações como CompTIA Security+, CEH (Certified Ethical Hacker) e CISSP (Certified Information Systems Security Professional) são frequentemente exigidas ou valorizadas.
+Conformidade regulatória: Empresas estão cada vez mais focadas em atender às exigências da LGPD e outras normas de segurança e privacidade de dados.
+
+4. Plano de Ação para Desenvolvimento de Competências
+Com base nas análises realizadas, sugerimos o foco nas seguintes competências para os próximos 6 meses:
+Hard Skill 1: Aprimorar conhecimentos em Pentesting e Análise de Vulnerabilidades, por meio de cursos especializados e prática em ambientes controlados.
+Hard Skill 2: Obter certificações reconhecidas na área, como CompTIA Security+ ou CEH, para validar e expandir os conhecimentos adquiridos.
+Soft Skill: Desenvolver habilidades de Comunicação Eficaz, participando de workshops e treinamentos que abordem a comunicação de riscos e incidentes para diferentes públicos.
 
 **Desenvolvedor Web Júnior e Pleno**
 
