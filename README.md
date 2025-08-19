@@ -101,3 +101,7 @@ Com base nas análises realizadas, sugerimos o foco nas seguintes competências:
 Hard Skill 1: Aprimorar o conhecimento em React e Node.js, com ênfase em práticas de desenvolvimento ágil e integração contínua.
 Hard Skill 2: Desenvolver habilidades em Vue.js e TypeScript, explorando suas aplicações em projetos reais.
 Soft Skill: Melhorar a comunicação eficaz, participando de workshops e treinamentos focados em habilidades interpessoais.
+________________________________________________________________________________________________________________________________________________________________________
+
+Conclusão:
+O mercado de Segurança Cibernética oferece salários mais altos e exige especialização em áreas como Blue Team, Red Team e Pentest, enquanto Desenvolvimento Web é mais acessível, com foco em HTML, JavaScript e frameworks como React. Em ambas as áreas, soft skills como trabalho em equipe, comunicação e proatividade são essenciais. Profissionais que se atualizam constantemente e praticam suas habilidades técnicas têm maior empregabilidade e crescimento salarial.
