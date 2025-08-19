@@ -14,4 +14,4 @@ Proatividade
 Pensamento crítico
 Adaptabilidade
 
-![Uploading image.png…]()
+<img width="676" height="121" alt="image" src="https://github.com/user-attachments/assets/a74e91cd-93cf-413d-b485-96dace38f2a3" />
