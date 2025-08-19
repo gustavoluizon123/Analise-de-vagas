@@ -30,6 +30,9 @@ Proatividade: Antecipação de possíveis vulnerabilidades e ações corretivas.
 2. Análise de dados
 <img width="676" height="121" alt="image" src="https://github.com/user-attachments/assets/a74e91cd-93cf-413d-b485-96dace38f2a3" />
 
+<img width="404" height="242" alt="image" src="https://github.com/user-attachments/assets/24dbbdd9-551b-4dad-b1f4-aed0307c1044" />
+
+<img width="407" height="244" alt="image" src="https://github.com/user-attachments/assets/185e1414-9dd9-4b68-ae65-3f549eb8452e" />
 
 
 3. Análise de Tendências
