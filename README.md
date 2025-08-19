@@ -37,7 +37,7 @@ Certificações valorizadas: Certificações como CompTIA Security+, CEH (Certif
 Conformidade regulatória: Empresas estão cada vez mais focadas em atender às exigências da LGPD e outras normas de segurança e privacidade de dados.
 
 4. Plano de Ação para Desenvolvimento de Competências
-Com base nas análises realizadas, sugerimos o foco nas seguintes competências para os próximos 6 meses:
+Com base nas análises realizadas, sugerimos o foco nas seguintes competências:
 Hard Skill 1: Aprimorar conhecimentos em Pentesting e Análise de Vulnerabilidades, por meio de cursos especializados e prática em ambientes controlados.
 Hard Skill 2: Obter certificações reconhecidas na área, como CompTIA Security+ ou CEH, para validar e expandir os conhecimentos adquiridos.
 Soft Skill: Desenvolver habilidades de Comunicação Eficaz, participando de workshops e treinamentos que abordem a comunicação de riscos e incidentes para diferentes públicos.
@@ -76,4 +76,23 @@ Proatividade
 Pensamento crítico
 Adaptabilidade
 
-2. Análise Salarial
+2. Análise de dados
+<img width="451" height="121" alt="image" src="https://github.com/user-attachments/assets/812494fd-95e7-46bc-aeb8-a1991ac70c1b" />
+
+<img width="643" height="335" alt="image" src="https://github.com/user-attachments/assets/030a06a8-a57a-46a9-8650-3c914ad87025" />
+
+<img width="615" height="374" alt="image" src="https://github.com/user-attachments/assets/698774dc-11a1-4a08-9874-e9f92408efa3" />
+
+
+3. Análise de Tendências
+
+Tecnologias emergentes: Vue.js, TypeScript, Kafka, RabbitMQ.
+Metodologias ágeis: Scrum, Kanban.
+Práticas de desenvolvimento: CI/CD, Testes Unitários, Design Systems.
+
+4. Plano de Ação para Desenvolvimento de Competências
+
+Com base nas análises realizadas, sugerimos o foco nas seguintes competências:
+Hard Skill 1: Aprimorar o conhecimento em React e Node.js, com ênfase em práticas de desenvolvimento ágil e integração contínua.
+Hard Skill 2: Desenvolver habilidades em Vue.js e TypeScript, explorando suas aplicações em projetos reais.
+Soft Skill: Melhorar a comunicação eficaz, participando de workshops e treinamentos focados em habilidades interpessoais.
