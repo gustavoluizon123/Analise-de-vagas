@@ -3,6 +3,8 @@ Este repositório é uma atividade, realizada na Universidade Cruzeiro do Sul, c
 
 **Analista de Cibersegurança**
 
+1. Análise de Competências
+
 1.1 Hard Skills mais requisitadas
 
 Júnior:
@@ -43,12 +45,34 @@ Soft Skill: Desenvolver habilidades de Comunicação Eficaz, participando de wor
 **Desenvolvedor Web Júnior e Pleno**
 
 1. Análise de Competências
+
 1.1 Hard Skills mais requisitadas
-Júnior: HTML, CSS, JavaScript, React, Node.js, SQL, Git, PHP, Laravel, Vue.js.
-Pleno: React, Node.js, Vue.js, TypeScript, Git, SQL Server, Kafka, RabbitMQ, CI/CD, Testes Unitários.
+
+Júnior: 
+HTML
+CSS 
+JavaScript 
+React 
+Node.js 
+SQL 
+Git 
+PHP 
+Laravel 
+Vue.js.
+
+Pleno: 
+TypeScript
+SQL Server 
+Kafka
+RabbitMQ 
+CI/CD 
+Testes Unitários.
+
 1.2 Soft Skills mais valorizadas
 Comunicação eficaz
 Trabalho em equipe
 Proatividade
 Pensamento crítico
 Adaptabilidade
+
+2. Análise Salarial
