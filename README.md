@@ -13,3 +13,5 @@ Trabalho em equipe
 Proatividade
 Pensamento crítico
 Adaptabilidade
+
+![Uploading image.png…]()
