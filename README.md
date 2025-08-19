@@ -42,6 +42,7 @@ Hard Skill 1: Aprimorar conhecimentos em Pentesting e Análise de Vulnerabilidad
 Hard Skill 2: Obter certificações reconhecidas na área, como CompTIA Security+ ou CEH, para validar e expandir os conhecimentos adquiridos.
 Soft Skill: Desenvolver habilidades de Comunicação Eficaz, participando de workshops e treinamentos que abordem a comunicação de riscos e incidentes para diferentes públicos.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________-
 **Desenvolvedor Web Júnior e Pleno**
 
 1. Análise de Competências
